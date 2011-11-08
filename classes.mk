@@ -1,0 +1,34 @@
+CLASSES=	\
+	com.h9labs.jwbem.msvm.memory.MsvmMemory	\
+	com.h9labs.jwbem.msvm.MsvmObject	\
+	com.h9labs.jwbem.msvm.networking.MsvmActiveConnection	\
+	com.h9labs.jwbem.msvm.networking.MsvmInternalEthernetPort	\
+	com.h9labs.jwbem.msvm.networking.MsvmLANEndPoint	\
+	com.h9labs.jwbem.msvm.networking.MsvmSwitchPort	\
+	com.h9labs.jwbem.msvm.networking.MsvmSyntheticEthernetPort	\
+	com.h9labs.jwbem.msvm.networking.MsvmSyntheticEthernetPortSettingData	\
+	com.h9labs.jwbem.msvm.networking.MsvmVirtualSwitch	\
+	com.h9labs.jwbem.msvm.networking.MsvmVirtualSwitchManagementService	\
+	com.h9labs.jwbem.msvm.networking.MsvmVmLANEndpoint	\
+	com.h9labs.jwbem.msvm.processor.MsvmProcessor	\
+	com.h9labs.jwbem.msvm.virtualsystem.MsvmComputerSystem	\
+	com.h9labs.jwbem.msvm.virtualsystem.MsvmSummaryInformation	\
+	com.h9labs.jwbem.msvm.virtualsystem.MsvmVirtualSystemSettingData	\
+	com.h9labs.jwbem.msvm.virtualsystem.RequestedState	\
+	com.h9labs.jwbem.msvm.virtualsystemmanagement.MsvmVirtualSystemManagementService	\
+	com.h9labs.jwbem.SWbemDispatchObject	\
+	com.h9labs.jwbem.SWbemLocator	\
+	com.h9labs.jwbem.SWbemMethod	\
+	com.h9labs.jwbem.SWbemMethodSet	\
+	com.h9labs.jwbem.SWbemObject	\
+	com.h9labs.jwbem.SWbemObjectPath	\
+	com.h9labs.jwbem.SWbemObjectSet	\
+	com.h9labs.jwbem.SWbemProperty	\
+	com.h9labs.jwbem.SWbemPropertySet	\
+	com.h9labs.jwbem.SWbemServices	\
+	com.h9labs.jwbem.SWbemSet	\
+	com.h9labs.jwbem.SWbemSetItem	\
+	com.h9labs.jwbem.win32.Win32NTLogEvent	\
+	com.h9labs.jwbem.win32.Win32PerfFormattedDataPerfOSMemory	\
+	com.h9labs.jwbem.win32.Win32PhysicalMemory	\
+	com.h9labs.jwbem.win32.Win32Processor
